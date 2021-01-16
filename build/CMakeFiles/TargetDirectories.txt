@@ -1,0 +1,3 @@
+/home/alan/Documentos/Projects/C++/embedded-coding-challenge-master/build/CMakeFiles/rebuild_cache.dir
+/home/alan/Documentos/Projects/C++/embedded-coding-challenge-master/build/CMakeFiles/edit_cache.dir
+/home/alan/Documentos/Projects/C++/embedded-coding-challenge-master/build/CMakeFiles/coding_challenge.dir
